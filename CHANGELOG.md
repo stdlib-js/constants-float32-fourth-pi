@@ -2,19 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="v0.1.0">
+<section class="release" id="unreleased">
 
-## 0.1.0 (2024-07-27)
-
-<section class="features">
-
-### Features
-
--   [`8994c14`](https://github.com/stdlib-js/stdlib/commit/8994c14cb75a6e7deda053ec027778cd078ea6ff) - add `constants/float32/fourth-pi` [(#2046)](https://github.com/stdlib-js/stdlib/pull/2046)
-
-</section>
-
-<!-- /.features -->
+## Unreleased (2024-08-01)
 
 <section class="commits">
 
@@ -22,7 +12,7 @@
 
 <details>
 
--   [`8994c14`](https://github.com/stdlib-js/stdlib/commit/8994c14cb75a6e7deda053ec027778cd078ea6ff) - **feat:** add `constants/float32/fourth-pi` [(#2046)](https://github.com/stdlib-js/stdlib/pull/2046) _(by Gunj Joshi)_
+-   [`22c4d29`](https://github.com/stdlib-js/stdlib/commit/22c4d29898e2b5bb4cb071a6b7f62536027eaf28) - **docs:** remove blank line _(by Athan Reines)_
 
 </details>
 
@@ -36,11 +26,21 @@
 
 A total of 1 person contributed to this release. Thank you to this contributor:
 
--   Gunj Joshi
+-   Athan Reines
 
 </section>
 
 <!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.1.0">
+
+## 0.1.0 (2024-07-27)
+
+No changes reported for this release.
 
 </section>
 

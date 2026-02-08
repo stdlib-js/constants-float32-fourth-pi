@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT32_FOURTH_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-fourth-pi@deno/mod.js';
+import FLOAT32_FOURTH_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-fourth-pi@v0.1.1-deno/mod.js';
 ```
 
 #### FLOAT32_FOURTH_PI
@@ -67,7 +67,7 @@ var bool = ( FLOAT32_FOURTH_PI === 7.853981852531433e-1 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import FLOAT32_FOURTH_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-fourth-pi@deno/mod.js';
+import FLOAT32_FOURTH_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-fourth-pi@v0.1.1-deno/mod.js';
 
 console.log( FLOAT32_FOURTH_PI );
 // => 7.853981852531433e-1

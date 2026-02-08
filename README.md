@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import FLOAT32_FOURTH_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-fourth-pi@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/constants-float32-fourth-pi/tags). For example,
+
+```javascript
 import FLOAT32_FOURTH_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-fourth-pi@v0.1.1-esm/index.mjs';
 ```
 
@@ -72,7 +77,7 @@ var bool = ( FLOAT32_FOURTH_PI === 7.853981852531433e-1 );
 <body>
 <script type="module">
 
-import FLOAT32_FOURTH_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-fourth-pi@v0.1.1-esm/index.mjs';
+import FLOAT32_FOURTH_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-fourth-pi@esm/index.mjs';
 
 console.log( FLOAT32_FOURTH_PI );
 // => 7.853981852531433e-1
